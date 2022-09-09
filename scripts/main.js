@@ -116,5 +116,4 @@ const displayEntries = () => {
     document.getElementById("content").innerHTML = notes_tables;
 };
 displayEntries();
-
 /* ---------------------------------------Daily _Journal_3---------------------------------------------------- */

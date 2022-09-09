@@ -4,6 +4,7 @@
     padding: 0;
     width: 100%;
 }
+
 body {
     background-image: url(/img/Journal.jpg);
     background-size: 40%;
@@ -13,6 +14,7 @@ body {
     font-family: "Poiret One", "cursive";
     /* font-size: 2vmin; */
 }
+
 .logo {
     border: 1px solid #ddd;
     border-radius: 10%;
@@ -21,6 +23,7 @@ body {
     display: flex;
     justify-content: end;
 }
+
 .name {
     font-weight: bold;
     font-size: 40px;
@@ -30,6 +33,7 @@ body {
     color: #fff;
     text-shadow: 1px 1px 1px #272121;
 }
+
 h2 {
     font-size: 60px;
     margin: 10px;
@@ -38,6 +42,7 @@ h2 {
     /* -webkit-text-stroke: #e0c260 0.8px; */
     text-align: center;
 }
+
 .container {
     border: 2px #925e49 solid;
     max-width: 1000px;

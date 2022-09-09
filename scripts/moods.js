@@ -1,4 +1,5 @@
-const moodOptions = ["Happy","Passion", "Curious",  "Ok", "Unhappy"];
+
+const moodOptions = ["Happy", "Passion", "Curious", "Ok", "Unhappy"];
 
 export const getMoods = () => {
     const moodsCopy = [...moodOptions];

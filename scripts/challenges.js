@@ -14,6 +14,7 @@ function dayOfWeek(d, m, y) {
 //dow(m,d,y){y-=m<3;return(y+y/4-y/100+y/400+"-bed=pen+mad."[m]+d)%7;}
 // Driver Code
 
+
 let day = dayOfWeek(08, 12, 2022);
 
 console.log(Math.round(day));
