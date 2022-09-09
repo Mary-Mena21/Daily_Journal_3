@@ -1,5 +1,6 @@
-# Daily_Journal
-Daily_Journal_Mariana
+# Daily_Journal_3
+![Daily_Journal_3](https://user-images.githubusercontent.com/85176043/189445813-d3a1dac9-f4ed-4c20-995a-17680e6190b8.jpeg)
+
 
 # **Daily Journal Part 3**
 
